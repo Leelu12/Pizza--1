@@ -1,0 +1,1 @@
+Pizza base,Pizza sauce, Mozzerala cheese,Chilli flakes,Organo seasoning,Panner,Chicken,Mushrooms,Tomatoes,Onions,Capsicums,Olives,Chillies.
